@@ -393,5 +393,9 @@
     <string name="expanded_desktop_style">Kiểu máy tính để bàn mở rộng</string>
     <string name="expanded_desktop_style_description">Chọn kiểu máy tính để bàn mở rộng mặc định</string>
     <string name="expanded_desktop_title">Tùy chọn máy tính để bàn mở rộng</string>
+	
+	<!-- Quick unlock -->
+    <string name="unlock_quick_unlock_control_title">Mở khóa nhanh</string>
+    <string name="unlock_quick_unlock_control_summary">Tự động mở khóa khi nhập mã PIN / mật khẩu chính xác</string>
 
 </resources>
