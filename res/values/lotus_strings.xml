@@ -269,4 +269,7 @@
     <string name="lotus">Lotus Settings</string>
     <string name="lotus_settings_summary">Whatever it takes to customize your device</string>
 
+    <!-- Notification log -->
+    <string name="notification_log_summary">Show notifications history log</string>
+
 </resources>
