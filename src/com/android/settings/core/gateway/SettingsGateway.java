@@ -268,7 +268,6 @@ public class SettingsGateway {
             ToggleBackupSettingFragment.class.getName(),
             PreviouslyConnectedDeviceDashboardFragment.class.getName(),
             LotusSettings.class.getName(),
-            AmbientPlayHistory.class.getName(),
             LiveDisplaySettings.class.getName(),
     };
 
