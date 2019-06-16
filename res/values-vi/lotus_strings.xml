@@ -266,4 +266,132 @@
     <string name="dark_theme_style_title">Chế độ nền tối</string>
     <string name="dark_theme_style_default">Mặc định</string>
     <string name="dark_theme_style_black">Đen</string>
+	
+	<!-- QS header styles -->
+    <string name="qs_header_style_title">Kiểu tiêu đề QS</string>
+    <string name="qs_header_black">Đen</string>
+    <string name="qs_header_grey">Xám</string>
+    <string name="qs_header_lightgrey">Xám nhạt</string>
+    <string name="qs_header_accent">Dựa vào dấu</string>
+    <string name="qs_header_transparent">Trong suốt</string>
+	
+	<!-- Switch styles -->
+    <string name="switch_style_title">Chuyển đổi ngoại hình</string>
+    <string name="switch_default">Mặc định</string>
+    <string name="switch_md2">Kiểu thiết kế 2</string>
+    <string name="switch_oneplus">OnePlus</string>
+    <string name="switch_one">Chuyển Một</string>
+    <string name="switch_two">Chuyển Hai</string>
+    <string name="switch_three">Chuyển Ba</string>
+    <string name="switch_four">Chuyển Bốn</string>
+    <string name="switch_five">Chuyển Năm</string>
+    <string name="switch_six">Chuyển Sáu</string>
+    <string name="switch_seven">Chuyển Bảy</string>
+    <string name="switch_eight">Chuyển Tám</string>
+    <string name="switch_nine">Chuyển Chín</string>
+	
+	<!-- Font picker -->
+    <string name="font_picker_title">Phông chữ</string>
+    <string name="font_picker_progress">Áp dụng phông chữ mới\u2026</string>
+	
+	<!-- Battery estimates -->
+    <string name="battery_estimates_title">Ước tính pin trong QS</string>
+    <string name="battery_estimates_summary">Tuổi thọ pin ước tính trong bảng QS</string>
+	
+    <!-- Smart charging -->
+    <string name="smart_charging_title">Sạc Thông minh</string>
+    <string name="smart_charging_summary">Kéo dài tuổi thọ của pin</string>
+    <string name="smart_charging_switch_title">Sử dụng Sạc Thông minh</string>
+    <string name="smart_charging_level_title">Mức kích hoạt sạc thông minh</string>
+    <string name="smart_charging_footer">Sạc thông minh cho phép bạn đặt mức sạc tối đa để kéo dài tuổi thọ của pin</string>
+	
+	<!-- Doze on Charge -->
+    <string name="doze_on_charge_title">Hiện thị khi sạc</string>
+    <string name="doze_on_charge_summary">Thức dậy khi sạc</string>
+
+    <!-- Fingerprint unlock keystore -->
+    <string name="fp_unlock_keystore_title">Mở khóa vân tay</string>
+    <string name="fp_unlock_keystore_summary">Mở khóa bằng vân tay ngay cả sau khi khởi động lại mà không có mã PIN / Mật khẩu / Mẫu \ nLưu ý: Bạn tự chịu rủi ro khi sử dụng!</string>
+
+    <!-- Aggressive battery -->
+    <string name="aggressive_battery_title">Pin hung hăng</string>
+    <string name="aggressive_battery_summary">Tiết kiệm pin nghiêm ngặt hơn</string>
+    <string name="aggressive_battery_warning_text">Đây là những tính năng tiết kiệm năng lượng. Chúng có thể can thiệp vào các dịch vụ dự định chạy ở chế độ rảnh, như các ứng dụng điều hướng. Bạn có thể đưa danh sách trắng các ứng dụng này khỏi bị ảnh hưởng trong cài đặt pin của ứng dụng.</string>
+    <string name="aggressive_idle_title">Nhàn rỗi</string>
+    <string name="aggressive_idle_summary">Nhập thiết bị nhàn rỗi thường xuyên hơn và thức dậy ít hơn</string>
+    <string name="aggressive_standby_title">Chờ đợi tích cực</string>
+    <string name="aggressive_standby_summary">Hạn chế các ứng dụng chạy nền</string>
+    <string name="aggressive_battery_saver_title">Tự động bật trên trình tiết kiệm pin</string> 
+    <string name="aggressive_battery_saver_summary">Tự động bật Pin tích cực khi sử dụng trình tiết kiệm pin</string>
+
+    <!-- Battery saving mode for Location - GPS will be disabled -->
+    <string name="location_mode_battery_saving_title">Chế độ tiết kiệm pin</string>
+    <string name="location_mode_battery_saving_summary">Chỉ sử dụng mạng Wi\u2011Fi, Bluetooth hoặc mạng di động để xác định vị trí (kém chính xác hơn)</string>
+
+    <!-- Lotus settings -->
+    <string name="lotus">Cài Đặt Hoa Sen</string>
+    <string name="lotus_settings_summary">Bất cứ điều gì cần để tùy chỉnh thiết bị của bạn</string>
+
+    <!-- Notification log -->
+    <string name="notification_log_summary">Hiển thị nhật ký lịch sử thông báo</string>
+
+    <!-- Per-app data restrictions -->
+    <string name="data_usage_app_restrict_data">Dữ liệu di động</string>
+    <string name="data_usage_app_restrict_data_summary">Cho phép sử dụng dữ liệu di động</string>
+    <string name="data_usage_app_restrict_wifi">Dữ liệu Wi\u2011Fi</string>
+    <string name="data_usage_app_restrict_wifi_summary">Cho phép sử dụng dự liệu Wi\u2011Fi</string>
+
+    <!-- Manage applications, package string displayed in app snippet -->
+    <string name="packagename_text" translatable="false"><xliff:g id="package_name">%1$s</xliff:g></string>
+
+    <!-- About phone, uptime. Deep sleep ratio since last reboot. -->
+    <string name="status_deep_sleep">(Giấc ngủ sâu: %1$d%2$s)</string>
+
+    <!-- Media gestures -->
+    <string name="prevent_ringing_option_mute_no_media">Tắt tiếng, không có phương tiện truyền thông</string>
+    <string name="prevent_ringing_option_mute_no_media_summary">Bật (tắt tiếng, không có phương tiện)</string>
+
+    <string name="full_gesture_mode_title">Kích hoạt chế độ cử chỉ đầy đủ</string>
+    <string name="full_gesture_mode_summary">Chế độ này vô hiệu hóa nút quay lại và bạn có thể kích hoạt hành động nút quay lại bằng cách vuốt sang trái trên thanh điều hướng. Vuốt phải vẫn kích hoạt ứng dụng cuối cùng và cuộn ứng dụng tổng quan. Để về nhà, bạn có thể nhấn vào bất kỳ khoảng trống nào trên thanh điều hướng, không chỉ nút home. Khi bàn phím hiển thị, nhấn và giữ trên thanh điều hướng để di chuyển con trỏ văn bản.</string>
+    <string name="full_gesture_mode_dt2s_title">Cho phép chạm hai lần để ngủ</string>
+    <string name="full_gesture_mode_dt2s_summary">Chạm vào một không gian thanh điều hướng trống nhưng không phải nút home để tắt màn hình.</string>
+
+    <!-- Scramble PIN Layout on Lockscreen -->
+    <string name="unlock_scramble_pin_layout_title">Bố trí tranh giành</string>
+    <string name="unlock_scramble_pin_layout_summary">Bố trí mã PIN khi mở khóa thiết bị</string>
+
+    <!-- Battery stats reset -->
+    <string name="battery_stats_reset">Đặt lại số liệu thống kê</string>
+    <string name="battery_stats_message">Số liệu thống kê lịch sử pin sẽ được thiết lập lại</string>
+    <string name="ok_string">Ok</string>
+
+    <string name="fp_swipe_to_dismiss_notifications_title">Vuốt dấu vân tay sang trái hoặc phải để loại bỏ thông báo</string>
+    <string name="fp_swipe_to_dismiss_notifications_summary">Để loại bỏ thông báo của bạn, hãy vuốt sang trái hoặc phải trên cảm biến vân tay ở mặt sau của điện thoại.</string>
+
+    <!-- Custom light color -->
+    <string name="custom_light_title">Màu sáng</string>
+    <string name="custom_light_on_time_title">Thời gian BẬT sáng trong xung led (ms)</string>
+    <string name="custom_light_off_time_title">Thời gian TẮT nhẹ trong khi xung led (ms)"</string>
+    <string name="value_equals_default">def</string>
+
+    <!-- Battery temp -->
+    <string name="battery_temp_title">Nhiệt độ pin</string>
+
+    <!-- Volume link notification -->
+    <string name="volume_link_notification_title">Liên kết chuông &amp; Âm lượng thông báo</string>
+
+    <!-- Expanded desktop -->
+    <string name="expanded_desktop_pref_title">Máy tính để bàn mở rộng</string>
+    <string name="expanded_hide_nothing">Không giấu gì cả</string>
+    <string name="expanded_hide_status">Ẩn thanh trạng thái</string>
+    <string name="expanded_hide_navigation">Ẩn thanh điều hướng</string>
+    <string name="expanded_hide_both">Ẩn cả hai</string>
+    <string name="expanded_nothing_to_show">Để thêm cấu hình cho mỗi ứng dụng tùy chỉnh cho trạng thái mở rộng, hãy đặt "Đã bật cho tất cả" sang vị trí tắt</string>
+    <string name="expanded_desktop_state">Mở rộng nhà nước</string>
+    <string name="expanded_enabled_for_all">Bật cho tất cả</string>
+    <string name="expanded_user_configurable">Cấu hình người dùng</string>
+    <string name="expanded_desktop_style">Kiểu máy tính để bàn mở rộng</string>
+    <string name="expanded_desktop_style_description">Chọn kiểu máy tính để bàn mở rộng mặc định</string>
+    <string name="expanded_desktop_title">Tùy chọn máy tính để bàn mở rộng</string>
+
 </resources>
