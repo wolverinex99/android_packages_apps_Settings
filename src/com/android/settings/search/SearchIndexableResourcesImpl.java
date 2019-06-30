@@ -100,6 +100,24 @@ import com.android.settings.wfd.WifiDisplaySettings;
 import com.android.settings.wifi.ConfigureWifiSettings;
 import com.android.settings.wifi.WifiSettings;
 
+import com.lotus.settings.fragments.BatteryCategory;
+import com.lotus.settings.fragments.ButtonSettings;
+import com.lotus.settings.fragments.CarrierSettings;
+import com.lotus.settings.fragments.ClockDateSettings;
+import com.lotus.settings.fragments.CustomGestureSettings;
+import com.lotus.settings.fragments.Interfaces;
+import com.lotus.settings.fragments.Animations;
+import com.lotus.settings.fragments.LockScreenSettings;
+import com.lotus.settings.fragments.NavigationCategory;
+import com.lotus.settings.fragments.MiscSettings;
+import com.lotus.settings.fragments.NotificationSettings;
+import com.lotus.settings.fragments.PowerMenuSettings;
+import com.lotus.settings.fragments.QuickSettings;
+import com.lotus.settings.fragments.StatusBarSettings;
+import com.lotus.settings.fragments.TrafficSettings;
+import com.lotus.settings.fragments.VolumePanel;
+import com.lotus.settings.fragments.VolumeSteps;
+
 import java.util.Collection;
 import java.util.HashSet;
 import java.util.Set;
@@ -202,6 +220,25 @@ public class SearchIndexableResourcesImpl implements SearchIndexableResources {
 
         // LiveDisplay
         addIndex(LiveDisplaySettings.class);
+		
+		//Lotus
+        addIndex(BatteryCategory.class);
+        addIndex(ButtonSettings.class);
+        addIndex(CarrierSettings.class);
+        addIndex(ClockDateSettings.class);
+		addIndex(Interfaces.class);
+		addIndex(Animations.class);
+        addIndex(CustomGestureSettings.class);
+        addIndex(LockScreenSettings.class);
+        addIndex(MiscSettings.class);
+        addIndex(NotificationSettings.class);
+        addIndex(PowerMenuSettings.class);
+        addIndex(QuickSettings.class);
+		addIndex(NavigationCategory.class);
+        addIndex(StatusBarSettings.class);
+        addIndex(TrafficSettings.class);
+        addIndex(VolumePanel.class);
+        addIndex(VolumeSteps.class);
     }
 
     @Override
