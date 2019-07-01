@@ -136,28 +136,36 @@
         <item>org.pixelexperience.overlay.accent.red</item>
         <item>org.pixelexperience.overlay.accent.yellow</item>
         <item>org.pixelexperience.overlay.accent.teal</item>
-        <item>com.accents.palered</item>
-        <item>com.accents.hazedpink</item>
-        <item>com.accents.bubblegumpink</item>
-        <item>com.accents.trufilpink</item> 
-        <item>com.accents.duskpurple</item> 
-        <item>com.accents.illusionspurple</item> 
-        <item>com.accents.spookedpurple</item> 
-        <item>com.accents.notimppurple</item>
-        <item>com.accents.dreamypurple</item> 
-        <item>com.accents.footprintpurple</item> 
-        <item>com.accents.obfusbleu</item> 
-        <item>com.accents.frenchbleu</item> 
-        <item>com.accents.coldbleu</item> 
-        <item>com.accents.heirloombleu</item> 
-        <item>com.accents.paleblue</item> 
-        <item>com.accents.holillusion</item> 
-        <item>com.accents.stock</item>
-        <item>com.accents.seasidemint</item>
-        <item>com.accents.movemint</item> 
-        <item>com.accents.extendedgreen</item> 
-        <item>com.accents.diffdaygreen</item> 
-        <item>com.accents.jadegreen</item>               
+                <item>com.google.android.theme.newhouseorange</item> 
+                <item>com.google.android.theme.sunsetorange</item> 
+                <item>com.google.android.theme.warmthorange</item> 
+                <item>com.google.android.theme.maniamber</item> 
+                <item>com.google.android.theme.limedgreen</item> 
+                <item>com.google.android.theme.diffdaygreen</item>
+                <item>com.google.android.theme.spoofygreen</item>
+                <item>com.google.android.theme.movemint</item>
+                <item>com.google.android.theme.naturedgreen</item> 
+                <item>com.google.android.theme.stock</item> 
+                <item>com.google.android.theme.drownedaqua</item> 
+                <item>com.google.android.theme.holillusion</item> 
+                <item>com.google.android.theme.coldbleu</item> 
+                <item>com.google.android.theme.heirloombleu</item> 
+                <item>com.google.android.theme.obfusbleu</item> 
+                <item>com.google.android.theme.almostproblue</item>
+                <item>com.google.android.theme.lunablue</item> 
+                <item>com.google.android.theme.frenchbleu</item> 
+                <item>com.google.android.theme.dreamypurple</item> 
+                <item>com.google.android.theme.notimppurple</item> 
+                <item>com.google.android.theme.grapespurple</item>
+                <item>com.google.android.theme.spookedpurple</item> 
+                <item>com.google.android.theme.dimigouig</item> 
+                <item>com.google.android.theme.duskpurple</item> 
+                <item>com.google.android.theme.bubblegumpink</item> 
+                <item>com.google.android.theme.dawnred</item> 
+                <item>com.google.android.theme.burningred</item> 
+                <item>com.google.android.theme.labouchered</item> 
+                <item>com.google.android.theme.misleadingred</item> 
+                <item>com.google.android.theme.whythisgrey</item>                
     </string-array>
     <string-array name="allowed_themes_when_light" translatable="false">
         <item>org.pixelexperience.overlay.accent.black</item>
