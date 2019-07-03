@@ -399,5 +399,27 @@
 	<!-- Quick unlock -->
     <string name="unlock_quick_unlock_control_title">Mở khóa nhanh</string>
     <string name="unlock_quick_unlock_control_summary">Tự động mở khóa khi nhập mã PIN / mật khẩu chính xác</string>
+	
+	<!-- About LotusOS -->
+    <string name="lotus_about_info">Về chúng tôi</string>
+    <string name="lotus_about_summary">Giới thiệu của chúng tôi và nhóm của chúng tôi</string>
+    <string name="lotus_about_info_summary">LotusOS là bản Rom dựa trên AOSP với các tùy chỉnh</string>
+    <string name="dev_info">Về LotusOS</string>
+    <string name="leads">Trưởng nhóm</string>
+    <string name="github">Github</string>
+    <string name="github_description">Xem mã nguồn của chúng tôi</string>
+    <string name="telegram">Telegram</string>
+    <string name="telegram_description">Tham gia nhóm thảo luận Telegram của chúng tôi</string>
+    <string name="web">Trung tâm tải xuống</string>
+    <string name="web_description">Visit our download portal</string>
+    <string name="maintainers">Người bảo trì</string>
+    <string name="dev_1">hungphan2001</string>
+    <string name="dev1_description">Nhà sáng lập, Người bảo trì thiết bị</string>
+    <string name="dev_2">hungphan2001</string>
+    <string name="dev2_description">Nhà thiết kế</string>
+    <string name="designers">Nhà thiết kế</string>
+    <string name="maintainer_description">Bảo trì cho %1$s</string>
+    <string name="donate">Ủng hộ</string>
+    <string name="donate_description">Hỗ trợ chúng tôi</string>
 
 </resources>

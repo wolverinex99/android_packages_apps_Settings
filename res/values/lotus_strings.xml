@@ -389,5 +389,27 @@
     <!-- Quick unlock -->
     <string name="unlock_quick_unlock_control_title">Quick unlock</string>
     <string name="unlock_quick_unlock_control_summary">Unlock automatically when the correct PIN/password is entered</string>
+	
+	<!-- About LotusOS -->
+    <string name="lotus_about_info">About us</string>
+    <string name="lotus_about_summary">Our introduction and our team</string>
+    <string name="lotus_about_info_summary">LotusOS is an AOSP based Rom with customizations</string>
+    <string name="dev_info">About LotusOS</string>
+    <string name="leads">Team Leads</string>
+    <string name="github">Github</string>
+    <string name="github_description">View our source code</string>
+    <string name="telegram">Telegram</string>
+    <string name="telegram_description">Join our Telegram discussion group</string>
+    <string name="web">Download Center</string>
+    <string name="web_description">Visit our download portal</string>
+    <string name="maintainers">Maintainers</string>
+    <string name="dev_1">hungphan2001</string>
+    <string name="dev1_description">Founder, Device maintainer</string>
+    <string name="dev_2">hungphan2001</string>
+    <string name="dev2_description">Designer</string>
+    <string name="designers">Designers</string>
+    <string name="maintainer_description">Maintains for %1$s</string>
+    <string name="donate">Donate</string>
+    <string name="donate_description">Support Us</string>
 
 </resources>
