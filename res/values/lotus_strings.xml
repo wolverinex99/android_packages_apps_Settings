@@ -416,5 +416,9 @@
     <string name="maintainer_description">Maintains for %1$s</string>
     <string name="donate">Donate</string>
     <string name="donate_description">Support Us</string>
+	
+	<!-- lotusOS System Updates -->
+	<string name="lotusos_updater_title">System Updater</string>
+    <string name="lotusos_updater_summary">LotusOS System Updater</string>
 
 </resources>

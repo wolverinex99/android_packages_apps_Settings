@@ -28,6 +28,20 @@
         android:order="-250"
         android:fragment="com.android.settings.gestures.GestureSettings"
         settings:controller="com.android.settings.gestures.GesturesSettingPreferenceController"/>
+		
+	<!-- System Updater -->
+    <PreferenceScreen 
+	android:key="lotus_updater"
+	android:title="@string/lotusos_updater_title"
+	android:icon="@drawable/ic_system_update"
+	android:order="-230"
+	android:summary="@string/lotusos_updater_summary">       
+
+	<intent
+        android:action="android.intent.action.MAIN"
+        android:targetPackage="com.lotusos.updater"
+        android:targetClass="com.lotusos.updater.UpdatesActivity" />     
+    </PreferenceScreen>
 
     <!-- Button Settings 
     <Preference
