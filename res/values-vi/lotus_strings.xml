@@ -298,6 +298,10 @@
     <string name="battery_estimates_title">Ước tính pin trong QS</string>
     <string name="battery_estimates_summary">Tuổi thọ pin ước tính trong bảng QS</string>
 	
+	<!-- LotusOS version -->
+    <string name="lotus_version">Phiên bản ROM</string>
+    <string name="lotus_version_default">Không xác định</string>
+	
     <!-- Smart charging -->
     <string name="smart_charging_title">Sạc Thông minh</string>
     <string name="smart_charging_summary">Kéo dài tuổi thọ của pin</string>
